@@ -1,2 +1,3 @@
 # KEL12-Klusterisasi-Tingkat-Kegemaran-Membaca-Masyarakat-Indonesia-berdasarkan-Provinsi-di-Tahun-2025
 KELOMPOK 12 Klusterisasi Tingkat Kegemaran Membaca Masyarakat Indonesia berdasarkan Provinsi di Tahun 2025
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bWyX4O0Z6-dSzjV5kkDhY3GXeBrEw7EW?usp=sharing)
